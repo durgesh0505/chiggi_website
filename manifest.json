@@ -1,0 +1,20 @@
+{
+  "name": "Chiggi.us - Chirag & Jiggi's Journey",
+  "short_name": "Chiggi.us",
+  "description": "Two hearts, one journey - Chirag and Jiggi's personal website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e0e5ec",
+  "theme_color": "#4a9eff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["lifestyle", "personal"],
+  "lang": "en-US",
+  "dir": "ltr"
+}

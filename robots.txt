@@ -1,0 +1,10 @@
+# robots.txt for chiggi.us
+
+User-agent: *
+Allow: /
+
+# Sitemap (update when available)
+# Sitemap: https://chiggi.us/sitemap.xml
+
+# Disallow crawling of specific folders (optional)
+Disallow: /UI_Design_Update/

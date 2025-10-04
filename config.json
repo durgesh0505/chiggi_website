@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Chiggi.us",
+    "footer": "With blessings of Shirdi Sai Baba & Bal Krishna."
+  },
+  "home": {
+    "hero_image": "images/chirag_jiggi_main.jpg",
+    "intro": "Two hearts, one journey — building our world together with love and laughter.",
+    "description": "We are Chirag and Jiggi — partners in love, faith, and everyday joy."
+  },
+  "chirag": {
+    "about_me": "Born in Kalol, Gujarat, now living in Georgia, USA. System Engineer who values learning and simplicity.",
+    "my_work": "System Engineer at Atrium Health — I enjoy solving problems and building automation.",
+    "spiritual_side": "Guided by Shirdi Sai Baba — faith and patience lead my life.",
+    "passions": [
+      { "name": "Geet By Chirag", "desc": "My creative music channel on YouTube." },
+      { "name": "ToolArc", "desc": "My personal automation project." }
+    ]
+  },
+  "jiggi": {
+    "intro": "A heart full of joy, faith, and love — with Bal Krishna’s grace guiding me every day.",
+    "sections": [
+      { "title": "Who I Am", "text": "Gentle and joyful, I believe in kindness and connection." },
+      { "title": "What Makes Me Smile", "text": "Family time, festivals, and moments with Chirag." },
+      { "title": "Faith & Devotion", "text": "Bal Krishna fills my life with peace and love." },
+      { "title": "Our Journey", "text": "From Gujarat to Georgia — laughter, faith, and growth." },
+      { "title": "Dreams & Hopes", "text": "To build a peaceful, loving home filled with blessings." }
+    ]
+  }
+}
