@@ -3,7 +3,7 @@
 ## Required Image
 
 Please add your main couple photo as:
-- **Filename**: `chirag_jiggi_main.jpg`
+- **Filename**: `chirag_jiggi_main.png`
 - **Recommended size**: 1200px width (for desktop)
 - **Format**: JPG or PNG
 
@@ -11,9 +11,9 @@ Please add your main couple photo as:
 
 For optimal performance, you can also create multiple sizes:
 
-1. **chirag_jiggi_main-320w.jpg** - Mobile (320px width)
-2. **chirag_jiggi_main-768w.jpg** - Tablet (768px width)
-3. **chirag_jiggi_main-1200w.jpg** - Desktop (1200px width)
+1. **chirag_jiggi_main-320w.png** - Mobile (320px width)
+2. **chirag_jiggi_main-768w.png** - Tablet (768px width)
+3. **chirag_jiggi_main-1200w.png** - Desktop (1200px width)
 
 ### Image Optimization Tips
 
@@ -25,7 +25,7 @@ For optimal performance, you can also create multiple sizes:
 
 ### Current Status
 
-📁 **images/chirag_jiggi_main.jpg** - ⚠️ **TO BE ADDED**
+📁 **images/chirag_jiggi_main.png**
 
 Once you add your photo, the website will display it automatically on the Home tab.
 
