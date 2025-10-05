@@ -4,7 +4,7 @@
     "footer": "❤️ With blessings of Shirdi Sai Baba & Bal Krishna 🙏"
   },
   "home": {
-    "hero_image": "images/chirag_jiggi_main.jpg",
+    "hero_image": "images/chirag_jiggi_main.png",
     "intro": "Two hearts, one journey — building our world together with love and laughter.",
     "description": "We are Chirag and Jiggi — partners in love, faith, and everyday joy."
   },
@@ -18,7 +18,7 @@
     ]
   },
   "jiggi": {
-    "intro": "A heart full of joy, faith, and love — with Bal Krishna’s grace guiding me every day.",
+    "intro": "A heart full of joy, faith, and love — with Bal Krishna's grace guiding me every day.",
     "sections": [
       { "title": "Who I Am", "text": "Gentle and joyful, I believe in kindness and connection." },
       { "title": "What Makes Me Smile", "text": "Family time, festivals, and moments with Chirag." },
@@ -28,6 +28,3 @@
     ]
   }
 }
-
-
-
