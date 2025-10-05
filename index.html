@@ -307,6 +307,21 @@
             font-style: italic;
             border-top: 1px solid rgba(163, 177, 198, 0.2);
         }
+
+        footer p {
+            margin: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-size: clamp(0.75rem, 3vw, 1rem);
+        }
+
+        /* Mobile: Ensure footer text fits on one line */
+        @media (max-width: 767px) {
+            footer p {
+                font-size: clamp(0.65rem, 2.5vw, 0.85rem);
+            }
+        }
     </style>
 </head>
 <body data-theme="light">
