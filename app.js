@@ -308,10 +308,25 @@ class ContentRenderer {
 
             const icon = this.getPassionIcon(passion.name);
 
-            passionDiv.innerHTML = `
-                <h4>${icon} ${passion.name}</h4>
-                <p>${passion.desc}</p>
-            `;
+            // Check if passion has a URL
+            if (passion.url) {
+                passionDiv.classList.add('clickable');
+                passionDiv.innerHTML = `
+                    <h4>${icon} <a href="${passion.url}" target="_blank" rel="noopener noreferrer">${passion.name}</a></h4>
+                    <p>${passion.desc}</p>
+                `;
+                passionDiv.style.cursor = 'pointer';
+                passionDiv.addEventListener('click', (e) => {
+                    if (e.target.tagName !== 'A') {
+                        window.open(passion.url, '_blank', 'noopener,noreferrer');
+                    }
+                });
+            } else {
+                passionDiv.innerHTML = `
+                    <h4>${icon} ${passion.name}</h4>
+                    <p>${passion.desc}</p>
+                `;
+            }
 
             container.appendChild(passionDiv);
         });

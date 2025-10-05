@@ -268,6 +268,25 @@
             color: var(--neu-text);
         }
 
+        .passion-item h4 a {
+            color: var(--neu-accent);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .passion-item h4 a:hover {
+            color: var(--neu-text);
+            text-decoration: underline;
+        }
+
+        .passion-item.clickable {
+            transition: transform 0.2s ease;
+        }
+
+        .passion-item.clickable:hover {
+            transform: translateY(-2px);
+        }
+
         .passion-item p {
             color: var(--neu-text-dim);
             font-size: 0.9rem;

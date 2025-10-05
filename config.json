@@ -13,8 +13,8 @@
     "my_work": "System Engineer at Atrium Health — I enjoy solving problems and building automation.",
     "spiritual_side": "Guided by Shirdi Sai Baba — faith and patience lead my life.",
     "passions": [
-      { "name": "Geet By Chirag", "desc": "My creative music channel on YouTube." },
-      { "name": "ToolArc", "desc": "My personal automation project." }
+      { "name": "Geet By Chirag", "desc": "My creative music channel on YouTube.", "url": "https://geetbychirag.chiggi.us/" },
+      { "name": "ToolArc", "desc": "My personal automation project.", "url": "https://toolarc.chiggi.us/" }
     ]
   },
   "jiggi": {
