@@ -8,7 +8,7 @@
     "intro": "Two hearts, one journey — building our world together with love and laughter.",
     "description": "We are Chirag and Jiggi — partners in love, faith, and everyday joy."
   },
-  "chirag (durgesh)": {
+  "chirag": {
     "about_me": "Born in Kalol, Gujarat, now living in Georgia, USA. System Engineer who values learning and simplicity.",
     "my_work": "System Engineer at Atrium Health — I enjoy solving problems and building automation.",
     "spiritual_side": "Guided by Shirdi Sai Baba — faith and patience lead my life.",
@@ -17,7 +17,7 @@
       { "name": "ToolArc", "desc": "My personal automation project.", "url": "https://toolarc.chiggi.us/" }
     ]
   },
-  "jiggi (mansi)": {
+  "jiggi": {
     "intro": "A heart full of joy, faith, and love — with Bal Krishna’s grace guiding me every day.",
     "sections": [
       { "title": "Who I Am", "text": "Gentle and joyful, I believe in kindness and connection." },
@@ -28,4 +28,5 @@
     ]
   }
 }
+
 
